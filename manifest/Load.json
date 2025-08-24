@@ -1,0 +1,35 @@
+{
+  "rootPath": "../",
+  "version": 2,
+  "assets": [
+    {
+      "path": "assets/characters/bf-car.json",
+      "size": 2527,
+      "type": "TEXT",
+      "id": "bf-car",
+      "preload": true
+    },
+    {
+      "path": "assets/characters/bf.json",
+      "size": 2905,
+      "type": "TEXT",
+      "id": "bf",
+      "preload": true
+    },
+    {
+      "path": "assets/images/icons/icon-bf.png",
+      "size": 19936,
+      "type": "IMAGE",
+      "id": "icon-bf",
+      "preload": true
+    },
+    {
+      "path": "assets/images/icons/icon-dad.png",
+      "size": 14488,
+      "type": "IMAGE",
+      "id": "icon-dad",
+      "preload": true
+    }
+    // ... keep adding more assets like this
+  ]
+}
