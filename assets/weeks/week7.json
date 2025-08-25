@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["song", "sprite sheet", [255, 120, 191]],
+		["", "", [255, 120, 191]],
+		["", "", [255, 120, 191]]
+	],
+
+	"weekCharacters": [
+		"tankman",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "school",
+
+	"storyName": "hating simulator ft. moawling",
+	"weekBefore": "week5",
+	"weekName": "Week 6",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
