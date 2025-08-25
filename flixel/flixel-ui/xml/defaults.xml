@@ -5,7 +5,7 @@
 	<definition id="sans12" font="vera" size="12" style="bold" color="0xffffff" outline="0x000000" align="left"/>
 	<definition id="sans16" font="vera" size="16" style="bold" color="0xffffff" outline="0x000000" align="left"/>
 	
-	<tab_menu x="500" y="212" width="200" height="200">
+	<tab_menu x="500" y="212" width="100" height="100">
 		<tab id="tab_1" label="$MENU_TAB_1"/>
 		<tab id="tab_2" label="$MENU_TAB_2"/>
 		<tab id="tab_3" label="$MENU_TAB_3"/>
